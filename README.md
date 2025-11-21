@@ -22,15 +22,15 @@ git clone https://github.com/Sneha-p1/StoreApp.git
 
 **1. Backend**
 
-cd StoreApp/backend
-npm install
-npm run dev
+- cd StoreApp/backend
+- npm install
+- npm run dev
 
 
 **2. Frontend**
-cd StoreApp/frontend
-npm install
-npm run dev
+- cd StoreApp/frontend
+- npm install
+- npm run dev
 
 ## Usage
 
